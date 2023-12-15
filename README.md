@@ -41,3 +41,12 @@ npm run build
 
 ## Screenshot
 
+<p>Foi feito o Loading para o carregamento da api.</p>
+<img src="0.png">
+
+<p>É possivel favoritar um post</p>
+<img src="1.png">
+
+<p>Possui paginação</p>
+<img src="2.png">
+
