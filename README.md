@@ -27,3 +27,17 @@ npm run dev
 ```sh
 npm run build
 ```
+
+## Tecnologias utilizadas
+
+<ul>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>Javascript</li>
+  <li>Bootstrap</li>
+  <li>Vue3.js</li>
+</ul>
+
+
+## Screenshot
+
